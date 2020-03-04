@@ -1,3 +1,7 @@
+This repository contains papers on relationship extraction from some international conferences in 2017.(AAAI, ACL, EMNLP, etc.)
+
+-----------------------------------------------
+
 # AAAI
 
 * Graph-Based Wrong IsA Relation Detection in a Large-Scale Lexical Taxonomy [[原文](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14268)]
