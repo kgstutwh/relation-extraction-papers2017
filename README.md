@@ -1,4 +1,4 @@
-# Realtion Extraction papers in 2019
+# Realtion Extraction papers in 2017
 
 This repository contains papers on relation extraction from some international conferences in 2017.(AAAI, ACL, EMNLP, etc.)
 
