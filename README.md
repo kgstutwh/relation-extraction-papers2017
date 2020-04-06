@@ -39,7 +39,7 @@ This repository contains papers on relation extraction from some international c
     * Authors: Hai Ye, Wenhan Chao and Zhunchen Luo
 
 * **Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix** [[pdf](https://www.aclweb.org/anthology/papers/P/P17/P17-1040/)]
-    *Authors: Bingfeng Luo, Yansong Feng, Zheng Wang, Zhanxing Zhu, Songfang Huang, Rui Yan and Dongyan Zhao
+    * Authors: Bingfeng Luo, Yansong Feng, Zheng Wang, Zhanxing Zhu, Songfang Huang, Rui Yan and Dongyan Zhao
 
 * **Neural Relation Extraction with Multi-lingual Attention** [[pdf](https://www.aclweb.org/anthology/papers/P/P17/P17-1004/)]
     * Authors: Yankai Lin, Zhiyuan Liu and Maosong Sun
